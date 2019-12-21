@@ -1,4 +1,4 @@
-package com.junsu.object;
+package com.junsu.object.chepter1;
 
 public class TicketSeller {
   private TicketOffice ticketOffice;

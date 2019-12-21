@@ -1,4 +1,4 @@
-package com.junsu.object;
+package com.junsu.object.chepter1;
 
 import java.util.Arrays;
 import java.util.LinkedList;
