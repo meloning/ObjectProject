@@ -1,4 +1,4 @@
-package com.junsu.object.chepter1;
+package com.junsu.object.chapter1;
 
 import java.time.LocalDateTime;
 
